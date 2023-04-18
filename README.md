@@ -1,6 +1,6 @@
 
 # Olá! Eu sou o Daniel Gusmão Pereira
-Graduado em Engenharia da Computação pela UEMA, especialista em Segurança da Informação. Apaixonado por programação de computador. Sempre em busca de mais conhecimento e aberto a novas oportunidades!!!
+Mestrando em Engenharia de Computação e Sistemas pela UEMA, Graduado em Engenharia da Computação pela UEMA, especialista em Segurança da Informação. Técnico em Informática com ênfase em Programação de Sistemas pelo IFMA, Campus Monte Castelo. Apaixonado por programação de computador. Sempre em busca de mais conhecimento e aberto a novas oportunidades!!!
 
 <div align="center">
   <a href="https://github.com/PeartreeEngComp2011">
